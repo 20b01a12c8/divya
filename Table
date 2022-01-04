@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TIME TABLE</title>
+</head>
+<body>
+    <u>
+    <h2 align='center'><b>TIME TABLE:2021-22</b></h2>
+    </u>
+    <h3 align='center'>Class Incharge : Mrs.B.padma</h3>
+<table border="1" cellspacing=0px cellpadding=0px align='center'>    
+<tr>
+    <th>PERIOD</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th rowspan="8">11:40 a.m to 1pm</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+</tr> 
+<tr>
+    <td>DAY</td>
+    <td>8:00
+        8:50a.m
+    </td>
+    <td>8:50
+        9:40a.m
+      
+    </td>
+    <td>10:00
+        10:50a.m
+
+    </td>
+    <td>10:50
+        11:40a.m
+
+    </td>
+    <td>1:00
+        1:50p.m
+
+    </td>
+    <td>1:50
+        2:40p.m
+
+    </td>
+    <td>2:50
+        3:40p.m
+
+    </td>
+    <td>3:40
+        4:30p.m
+
+    </td>
+</tr> 
+<tr>
+    <td>MON</td>
+    <td>CO</td>
+    <td>SE</td>
+    <td>P&S</td>
+    <td>DS</td>
+    <td colspan="2">OOP</td>
+    <td>CODING</td>
+    <td>ES</td>
+</tr>
+<tr>
+    <td>TUE</td>
+    <td>DS</td>
+    <td colspan="3">FWD LAB</td>
+    <td>ES</td>
+    <td>CO</td>
+    <td>OOP</td>
+    <td>P&S</td>
+</tr>
+<tr>
+    <td>WED</td>
+    <td>SE</td>
+    <td>CO</td>
+    <td>DS</td>
+    <td>OOP</td>
+    <td>P&S</td>
+    <td colspan="3">ARTS</td>
+</tr>
+<tr>
+    <td>THU</td>
+    <td>SE</td>
+    <td colspan="3">DS LAB</td>
+    <td>CODING</td>
+    <td>DS</td>
+    <td colspan="2">CO</td>
+    
+</tr>
+<tr>
+    <td>FRI</td>
+    <td>OOP</td>
+    <td>DS</td>
+    <td>CODING</td>
+    <td>CO</td>
+    <td colspan="2">P&S</td>
+    <td colspan="2">SE</td>
+</tr>
+<tr>
+    <td>SAT</td>
+    <td>P&S</td>
+    <td>OOP</td>
+    <td>DS</td>
+    <td>COUN</td>
+    <td>SE</td>
+    <td colspan="3">OOP LAB</td>
+</tr>
+</table>
+<table>
+<table border="1" cellspacing=0px cellpadding=0px align='center'>
+<tr>
+    <th></th>
+   <u><th align="center">SUBJECT</th></u>
+    <u><th align="center">FACULTY</th></u>
+</tr>
+<tr>
+    <td>P&S</td>
+    <td>Probability & Statistics</td>
+    <td>Dr.P L R Kameswari</td>
+</tr>
+<tr>
+    <td>CO</td>
+    <td>Computer Organization</td>
+    <td></td>
+</tr>      
+<tr>
+    <td>DS</td>
+    <td>Data Structures using C</td>
+    <td>Prof.P.Venkata Rama Raju</td>
+</tr>      
+<tr>
+    <td>OOP</td>
+    <td>Object Oriented Programming through Java</td>
+    <td>Dr.A.V.Kalpana</td>
+</tr>      
+<tr>
+    <td>SE</td>
+    <td>Software Engneering</td>
+    <td>Mrs.B.Padma</td>
+</tr>      
+<tr>
+    <td>FWD LAB</td>
+    <td>Front-End Web Devolepment Lab</td>
+    <td>Dr.D.V.Naga Raju</td>
+</tr>      
+<tr>
+    <td>DS Lab</td>
+    <td>Data Structures using C Lab</td>
+    <td>Prof.P.Venkata Rama Raju</td>
+</tr>      
+   
+<tr>
+    <td>OOPS Lab</td>
+    <td>OOPS through Java Lab</td>
+    <td>Dr.A.V.Kalpana</td>
+</tr>      
+<tr>
+    <td>ES</td>
+    <td>Environmental Sciences</td>
+    <td>Mr.DBNS Varma</td>
+</tr>      
+<tr>
+    <td>ARTS</td>
+    <td>Arts</td>
+    <td></td>
+</tr> 
+<tr>
+    <td>CODING</td>
+    <td>Coding Practice</td>
+    <td>Dr.D.V.Naga Raju/Mrs.B.Padma</td>
+</tr>              
+
+</table>   
+
+</body>
+</html>
